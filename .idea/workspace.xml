@@ -12,7 +12,9 @@
   </component>
   <component name="ProjectId" id="1gT3UTVPIzRV7PBxxkzmkDdyEE5" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -78,5 +80,11 @@
       <updated>1598124770258</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598124791504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1598124791504" />
   </component>
 </project>
